@@ -14,7 +14,7 @@ This project leverages **Streamlit, Python, and Nymeria API** to fetch recruiter
 ---
 
 ## 📷 Project Demo
-Image.jpg
+https://github.com/vijay1612/connect_to_recruiters/blob/20282e2a98dc5ecb1734e17f8bf50f8511bc1ee3/Image.jpg
 
 ---
 

@@ -14,7 +14,7 @@ This project leverages **Streamlit, Python, and Nymeria API** to fetch recruiter
 ---
 
 ## 📷 Project Demo
-![App Screenshot](https://your-screenshot-link.com)
+Image.jpg
 
 ---
 
